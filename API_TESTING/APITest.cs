@@ -26,7 +26,7 @@ namespace API_TESTING
 
             var expectedOrder = new BillingOrder
             {
-                addressLine1 = "test",
+                addressLine1 = "test1",
                 addressLine2 = "test",
                 city = "AK",
                 comment = "test",
